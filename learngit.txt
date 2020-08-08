@@ -9,3 +9,12 @@ git status
 
 git diff
 //show the different between repository and modified files
+
+git log
+//show the simple logs of git
+
+git reflog
+//show all the logs
+
+git reset -hard HEAD^ (or HEAD~100) (or commit id)
+//back to the state before 
