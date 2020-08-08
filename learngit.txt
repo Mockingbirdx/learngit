@@ -18,3 +18,6 @@ git reflog
 
 git reset -hard HEAD^ (or HEAD~100) (or commit id)
 //back to the state before 
+
+git checkout -- <file>
+//back to the last "commit" or "add" 
