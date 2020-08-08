@@ -1,2 +1,5 @@
 git add learngit.txt
 //you can add this txt file into the repository
+
+git commit -m "add new file"
+//commit one or more file into repository
