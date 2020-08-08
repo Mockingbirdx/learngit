@@ -5,8 +5,7 @@ git commit -m "add new file"
 //commit one or more file into repository
 
 git status
-//show the status of repository
-//show the information of stage
+//show the status of repository, show the information of stage
 
 git diff
 //show the different between repository and modified files
