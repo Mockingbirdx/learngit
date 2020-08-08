@@ -21,3 +21,6 @@ git reset -hard HEAD^ (or HEAD~100) (or commit id)
 
 git checkout -- <file>
 //back to the last "commit" or "add" 
+
+git reset HEAD <file>
+//back, empty the stage
