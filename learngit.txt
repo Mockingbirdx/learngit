@@ -3,3 +3,9 @@ git add learngit.txt
 
 git commit -m "add new file"
 //commit one or more file into repository
+
+git status
+//show the status of repository
+
+git diff
+//show the different between repository and modified files
