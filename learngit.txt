@@ -7,7 +7,7 @@ git commit -m "add new file"
 git status
 //show the status of repository, show the information of stage
 
-git diff
+git diff xxfile
 //show the different between repository and modified files
 
 git log
@@ -24,3 +24,7 @@ git checkout -- <file>
 
 git reset HEAD <file>
 //back, empty the stage
+
+git config --global user.name xxx
+//set up your name
+
